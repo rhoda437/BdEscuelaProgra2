@@ -4,7 +4,7 @@ Hecho en Netbeans 8.2.
 Este proyecto fue creado en una fecha anterior a tener conocimientos de Bases de Datos,
 por lo que podrían tenerse algunos conocimientos errados con respecto a la materia anteriormente mencionada.
 
-FECHA ORIGINAL DE ENTREGA: 20 De enero, 2020.
+FECHA ORIGINAL DE ENTREGA: 20 de enero, 2020.
 
 Los archivos en build/classes, dist/javadoc y en nbproject fueron automáticamente generados por NetBeans.
 Igualmente los archivos build.xml y manifest.mf.
